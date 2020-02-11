@@ -9,3 +9,5 @@ Assignment for COMP 2513 (Web-Centric Programming) to demonstrate use of:
 API used: https://ghibliapi.herokuapp.com/
 
 Images used are not my own and belong to Studio Ghibli.
+
+![A3_image](https://user-images.githubusercontent.com/56089739/74212130-24267a80-4c69-11ea-88a3-fa9349bd586a.jpg)
